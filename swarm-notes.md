@@ -28,6 +28,5 @@ Explore Portainer (https://portainer.io/)
     - Can see the status of all the worker nodes in a cluster!
   - Worker node receives and excecutes tasks from the manager node. (Like a client)
     - If manager tells worker to run as a mySQL environment, the worker will convert to a mySQL environment.
-
-# Communication between Manager and Worker Nodes are done by using a REST API
+  -  Communication between Manager and Worker Nodes are done by using a REST API
 
